@@ -1,5 +1,5 @@
 # VincentVanPop
-An R package to draw nice plots for the output of some of the most common open source genomics tools and software.
+An R package to draw nice plots for the output of common open source genomics tools and software that I am using in my Project.
 # Installation
 <code>
 install.packages("devtools")
